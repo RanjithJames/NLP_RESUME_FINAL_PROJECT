@@ -15,7 +15,7 @@ else:
     ruler = nlp.get_pipe("entity_ruler")
 
 # URL to the JSONL file on GitHub
-url = "https://raw.githubusercontent.com/mystery2life/NLP-Project/main/jz_skill_patterns.jsonl"
+url = "https://https://raw.githubusercontent.com/RanjithJames/NLP_RESUME_PROJECT/main/Skill_patterns.jsonl"
 
 # Download the file content from GitHub
 response = requests.get(url)
